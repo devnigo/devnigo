@@ -1,7 +1,7 @@
 ## Certifications
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Cisco-blue?style=for-the-badge&logo=cisco)
 ![AWS](https://img.shields.io/badge/AWS-Santander-orange?style=for-the-badge&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Azure-Fundamentals-blue?style=for-the-badge&logo=microsoft-azure)
+
 
 ## Technical Skill
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-Expert-green?style=for-the-badge&logo=linux-mint)
